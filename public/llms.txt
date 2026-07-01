@@ -1,0 +1,86 @@
+# מסך הצללים — Generative Engine Optimization Map
+
+> A website dedicated to horror and drama films, combining two powerful cinematic genres. The site likely features dark, atmospheric, and emotionally intense content, catering to fans of suspenseful storytelling, psychological thrills, and dramatic narratives. The brand identity revolves around cinematic tension, emotion, and immersive storytelling experiences.
+
+---
+
+## Pages
+
+### בית
+https://-36d82885.zappy5.app
+גלו עולם קולנועי אפל ומלא מתח עם מיטב סרטי האימה והדרמה. חוויות סוחפות שיטלטלו אתכם. התחילו את המסע המצמרר שלכם עוד היום.
+
+### סרטים
+https://-36d82885.zappy5.app/films
+קטלוג סרטי אימה ודרמה קולנועיים שיעוררו בכם צמרמורת. מסיפורים מותחים ועד רגעים דרמטיים עוצרי נשימה. בחרו את הסרט הבא שירדוף אתכם.
+
+### אווירה
+https://-36d82885.zappy5.app/atmosphere
+צללו אל תוך אטמוספירה קולנועית אפלה ומהפנטת. פסקולים מצמררים, ויזואליות דרמטית ומתח בלתי פוסק מחכים לכם. הרגישו את הצללים מתעוררים לחיים.
+
+### אודות
+https://-36d82885.zappy5.app/about
+מאחורי הקלעים של אתר סרטי האימה והדרמה המוביל. גלו את החזון הקולנועי שמניע אותנו ליצור חוויות מפחידות ועוצמתיות. הצטרפו למסע אל לב הפחד.
+
+### צור קשר
+https://-36d82885.zappy5.app/contact
+יש לכם רעיון מפחיד או שאלה קולנועית? צרו קשר עם צוות מסך הצללים ושתפו אותנו בתשוקה שלכם לאימה ודרמה. אנחנו מחכים לשמוע מכם.
+
+### תודה - מסך הצללים
+https://-36d82885.zappy5.app/thank-you
+מסך הצללים - תודה - מסך הצללים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-36d82885.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-36d82885.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-36d82885.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-36d82885.zappy5.app/contact
+- Endpoint: https://-36d82885.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מסך הצללים
+A website dedicated to horror and drama films, combining two powerful cinematic genres. The site likely features dark, atmospheric, and emotionally intense content, catering to fans of suspenseful storytelling, psychological thrills, and dramatic narratives. The brand identity revolves around cinematic tension, emotion, and immersive storytelling experiences.
+
+## Target Audience
+- חובבי סרטי אימה
+- חובבי דרמה
+- צופי לילה
+
+## Industry
+Entertainment / Film
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-36d82885.zappy5.app/sitemap.xml
+- Robots: https://-36d82885.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-36d82885.zappy5.app/llms-full.txt

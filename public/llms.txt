@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-36d82885.zappy5.app
+https://example.com
 גלו עולם קולנועי אפל ומלא מתח עם מיטב סרטי האימה והדרמה. חוויות סוחפות שיטלטלו אתכם. התחילו את המסע המצמרר שלכם עוד היום.
 
 ### סרטים
-https://-36d82885.zappy5.app/films
+https://example.com/films
 קטלוג סרטי אימה ודרמה קולנועיים שיעוררו בכם צמרמורת. מסיפורים מותחים ועד רגעים דרמטיים עוצרי נשימה. בחרו את הסרט הבא שירדוף אתכם.
 
 ### אווירה
-https://-36d82885.zappy5.app/atmosphere
+https://example.com/atmosphere
 צללו אל תוך אטמוספירה קולנועית אפלה ומהפנטת. פסקולים מצמררים, ויזואליות דרמטית ומתח בלתי פוסק מחכים לכם. הרגישו את הצללים מתעוררים לחיים.
 
 ### אודות
-https://-36d82885.zappy5.app/about
+https://example.com/about
 מאחורי הקלעים של אתר סרטי האימה והדרמה המוביל. גלו את החזון הקולנועי שמניע אותנו ליצור חוויות מפחידות ועוצמתיות. הצטרפו למסע אל לב הפחד.
 
 ### צור קשר
-https://-36d82885.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון מפחיד או שאלה קולנועית? צרו קשר עם צוות מסך הצללים ושתפו אותנו בתשוקה שלכם לאימה ודרמה. אנחנו מחכים לשמוע מכם.
 
 ### תודה - מסך הצללים
-https://-36d82885.zappy5.app/thank-you
+https://example.com/thank-you
 מסך הצללים - תודה - מסך הצללים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-36d82885.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-36d82885.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-36d82885.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-36d82885.zappy5.app/contact
-- Endpoint: https://-36d82885.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Entertainment / Film
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-36d82885.zappy5.app/sitemap.xml
-- Robots: https://-36d82885.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-36d82885.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
